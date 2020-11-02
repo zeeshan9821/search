@@ -1,0 +1,49 @@
+.service-box{
+    top: 0;
+    left: 0;
+    margin-top: 15px
+    ;
+}
+
+#service {
+  margin: 34px;
+  display: flex;
+}
+.box p{
+    padding-top: 15px;
+}
+
+#service .box {
+    border: 2px solid red;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: tan;
+}
+
+
+#service .box img{
+    height: 150px;
+    display: block;
+    margin: auto;
+    padding: 10px;
+}
+
+#service .box h2{
+    text-align: center;
+}
+#service .box  p{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+/* ********************************** */
+
